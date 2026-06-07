@@ -1,0 +1,6 @@
+com\w3eklyplaytt\utils\Utils.class
+com\w3eklyplaytt\managers\MotdManager.class
+com\w3eklyplaytt\managers\PluginManager.class
+com\w3eklyplaytt\commands\ReloadCommand.class
+com\w3eklyplaytt\DonutMotd.class
+com\w3eklyplaytt\listeners\PlayerListener.class

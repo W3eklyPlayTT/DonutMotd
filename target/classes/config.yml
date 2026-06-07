@@ -1,0 +1,10 @@
+# DonutMotd 
+# Welcome to DonutMotd Config :D
+
+reload-message: "DonutMotd Reloaded. " # Color Code done for this :D
+
+motd: |
+  <gradient:#3aa7e0:#55c0ff>DonutSMP.net
+  <white>sᴜʀᴠɪᴠᴀʟ
+
+config-version: 1.0.0 # Only Change if your cool :D
